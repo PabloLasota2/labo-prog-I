@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598921077 source:/home/pablo/Documentos/Facultad/menuOpcion/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+
+1598989497 source:/home/pablo/Documentos/Facultad/Laboratorio y Programacion I/CodeBlocks/menuOpcion/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+

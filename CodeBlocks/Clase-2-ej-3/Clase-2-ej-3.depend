@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598812358 source:/home/pablo/Documentos/Facultad/Laboratorio y Programacion I/Clase-2-ej-3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdio_ext.h>
+

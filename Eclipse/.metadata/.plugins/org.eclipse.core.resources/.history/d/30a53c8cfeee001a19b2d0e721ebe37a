@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : funciones_1.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	setbuf(stdin);
+	int num1 = 23;
+	int num2;
+
+
+
+
+	return EXIT_SUCCESS;
+}
