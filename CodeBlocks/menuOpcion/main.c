@@ -14,7 +14,7 @@ int main()
     do
     {
 
-        system("clear");
+        system("cls");
         printf("*** Menu de Opciones ***\n\n"
                "a Saludar\n"
                "b Brindar\n"
